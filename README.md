@@ -11,11 +11,6 @@
 git --version
 gitをインストールした
 
-## コマンド例
-```bash
-npm install
-npm start
-
 
 # Markdown → HTML 変換サンプル（Node.js + marked）
 
@@ -93,3 +88,8 @@ marked で HTML に変換
 sample.html として保存される
 
 つまり Markdown → HTML の変換処理の自動化 です。
+
+## コマンド例
+```bash
+npm install
+npm start

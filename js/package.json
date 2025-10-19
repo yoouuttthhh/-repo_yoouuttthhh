@@ -1,6 +1,18 @@
 {
- "type": "module",
- "dependencies": {
-  "marked": "^16.4.1"
- }
+  "type": "module",
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "double.js",
+  "dependencies": {
+    "marked": "^16.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node md.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
