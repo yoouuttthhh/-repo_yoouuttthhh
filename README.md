@@ -12,9 +12,7 @@ git --version
 gitをインストールした
 
 ## コマンド例
-```bash
-npm install
-npm start
+
 
 
 ### Markdown → HTML 変換サンプル（Node.js + marked）
